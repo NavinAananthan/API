@@ -2,7 +2,7 @@ import requests, json
 
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather?"
 CITY = "COimbatore"
-API_KEY = "ab46721cc096086794c355378d8b6afd"
+API_KEY = "YOURAPIKEY"
 
 
 # upadting the URL
